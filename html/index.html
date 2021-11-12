@@ -9,6 +9,17 @@
 
 <body>
     helloq1111
+    <input type="file">
+    <script>
+        var input = document.querySelector('input')
+        input.onchange = function(e){
+            console.log(e.target.files[0])
+            const file = e.target.files[0]
+            let formData = new FormData()
+            formData.append('文件',file)
+            console.log(formData)
+        }
+    </script>
 </body>
-
+    
 </html>

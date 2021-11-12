@@ -1,0 +1,4838 @@
+{
+  "success": true,
+  "errorCode": "2000",
+  "message": "操作成功",
+  "data": {
+    "SGJZ00000333": [
+      {
+        "id": "CD00061357",
+        "pid": "SGJZ00000333",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061358",
+        "pid": "SGJZ00000333",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061362",
+        "pid": "SGJZ00000333",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_TuDianJD_Di2_LFJ_GD_A_z_HaiNingBZ_TuDianJD_Di3_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061365",
+        "pid": "SGJZ00000333",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000332": [
+      {
+        "id": "CD00061338",
+        "pid": "SGJZ00000332",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061339",
+        "pid": "SGJZ00000332",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061343",
+        "pid": "SGJZ00000332",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_TuDianJD_Di1_LFJ_GD_B_z_HaiNingBZ_TuDianJD_Di2_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061346",
+        "pid": "SGJZ00000332",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000331": [
+      {
+        "id": "CD00061319",
+        "pid": "SGJZ00000331",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061320",
+        "pid": "SGJZ00000331",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061324",
+        "pid": "SGJZ00000331",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_TuDianJD_Di1_LFJ_GD_A_z_HaiNingBZ_TuDianJD_Di2_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061327",
+        "pid": "SGJZ00000331",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000330": [
+      {
+        "id": "CD00061300",
+        "pid": "SGJZ00000330",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061301",
+        "pid": "SGJZ00000330",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061305",
+        "pid": "SGJZ00000330",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_XiaYou_Shuang_DF_GD_B_z_HaiNingBZ_TuDianJD_Di1_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061308",
+        "pid": "SGJZ00000330",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000339": [
+      {
+        "id": "CD00061471",
+        "pid": "SGJZ00000339",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061472",
+        "pid": "SGJZ00000339",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061476",
+        "pid": "SGJZ00000339",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TuDian_NanHuJD_Di2_LFJ_GD_A_z_NanHuJDShangYouShuang_DF_GD_A"
+      },
+      {
+        "id": "CD00061479",
+        "pid": "SGJZ00000339",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000338": [
+      {
+        "id": "CD00061452",
+        "pid": "SGJZ00000338",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061453",
+        "pid": "SGJZ00000338",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061457",
+        "pid": "SGJZ00000338",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TuDian_NanHuJD_Di1_LFJ_GD_B_z_TuDian_NanHuJD_Di2_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061460",
+        "pid": "SGJZ00000338",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000337": [
+      {
+        "id": "CD00061433",
+        "pid": "SGJZ00000337",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061434",
+        "pid": "SGJZ00000337",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061438",
+        "pid": "SGJZ00000337",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TuDian_NanHuJD_Di1_LFJ_GD_A_z_TuDian_NanHuJD_Di2_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061441",
+        "pid": "SGJZ00000337",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000336": [
+      {
+        "id": "CD00061414",
+        "pid": "SGJZ00000336",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061415",
+        "pid": "SGJZ00000336",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061419",
+        "pid": "SGJZ00000336",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_TuDianJD_Di3_LFJ_GD_B_z_TuDian_NanHuJD_Di1_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061422",
+        "pid": "SGJZ00000336",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000335": [
+      {
+        "id": "CD00061395",
+        "pid": "SGJZ00000335",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061396",
+        "pid": "SGJZ00000335",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061400",
+        "pid": "SGJZ00000335",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_TuDianJD_Di3_LFJ_GD_A_z_TuDian_NanHuJD_Di1_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061403",
+        "pid": "SGJZ00000335",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000334": [
+      {
+        "id": "CD00061384",
+        "pid": "SGJZ00000334",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      },
+      {
+        "id": "CD00061376",
+        "pid": "SGJZ00000334",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061377",
+        "pid": "SGJZ00000334",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061381",
+        "pid": "SGJZ00000334",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_TuDianJD_Di2_LFJ_GD_B_z_HaiNingBZ_TuDianJD_Di3_LFJ_GD_B"
+      }
+    ],
+    "SGJZ00000344": [
+      {
+        "id": "CD00061566",
+        "pid": "SGJZ00000344",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061567",
+        "pid": "SGJZ00000344",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061571",
+        "pid": "SGJZ00000344",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuJDXiaYouShuang_DF_GD_B_z_NanHuBZ_ShangYou_Shuang_DF_GD_B"
+      },
+      {
+        "id": "CD00061574",
+        "pid": "SGJZ00000344",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000343": [
+      {
+        "id": "CD00061547",
+        "pid": "SGJZ00000343",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061548",
+        "pid": "SGJZ00000343",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061552",
+        "pid": "SGJZ00000343",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuJDXiaYouShuang_DF_GD_A_z_NanHuBZ_ShangYou_Shuang_DF_GD_A"
+      },
+      {
+        "id": "CD00061555",
+        "pid": "SGJZ00000343",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000342": [
+      {
+        "id": "CD00061528",
+        "pid": "SGJZ00000342",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061529",
+        "pid": "SGJZ00000342",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061533",
+        "pid": "SGJZ00000342",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuJDShangYouShuang_DF_GD_B_z_NanHuJDXiaYouShuang_DF_GD_B"
+      },
+      {
+        "id": "CD00061536",
+        "pid": "SGJZ00000342",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000341": [
+      {
+        "id": "CD00061509",
+        "pid": "SGJZ00000341",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061510",
+        "pid": "SGJZ00000341",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061514",
+        "pid": "SGJZ00000341",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuJDShangYouShuang_DF_GD_A_z_NanHuJDXiaYouShuang_DF_GD_A"
+      },
+      {
+        "id": "CD00061517",
+        "pid": "SGJZ00000341",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000340": [
+      {
+        "id": "CD00061495",
+        "pid": "SGJZ00000340",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TuDian_NanHuJD_Di2_LFJ_GD_B_z_NanHuJDShangYouShuang_DF_GD_B"
+      },
+      {
+        "id": "CD00061498",
+        "pid": "SGJZ00000340",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      },
+      {
+        "id": "CD00061490",
+        "pid": "SGJZ00000340",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061491",
+        "pid": "SGJZ00000340",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      }
+    ],
+    "SGJZ00000349": [
+      {
+        "id": "CD00061661",
+        "pid": "SGJZ00000349",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061662",
+        "pid": "SGJZ00000349",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061666",
+        "pid": "SGJZ00000349",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuBZ_DaQiaoJD_Di2_LFJ_GD_A_z_DaQiaoJDShangYouShuang_DF_GD_A"
+      },
+      {
+        "id": "CD00061669",
+        "pid": "SGJZ00000349",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000348": [
+      {
+        "id": "CD00061642",
+        "pid": "SGJZ00000348",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061643",
+        "pid": "SGJZ00000348",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061647",
+        "pid": "SGJZ00000348",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuBZ_DaQiaoJD_Di1_LFJ_GD_B_z_NanHuBZ_DaQiaoJD_Di2_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061650",
+        "pid": "SGJZ00000348",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000347": [
+      {
+        "id": "CD00061623",
+        "pid": "SGJZ00000347",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061624",
+        "pid": "SGJZ00000347",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061628",
+        "pid": "SGJZ00000347",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuBZ_DaQiaoJD_Di1_LFJ_GD_A_z_NanHuBZ_DaQiaoJD_Di2_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061631",
+        "pid": "SGJZ00000347",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000346": [
+      {
+        "id": "CD00061604",
+        "pid": "SGJZ00000346",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061605",
+        "pid": "SGJZ00000346",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061609",
+        "pid": "SGJZ00000346",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuBZ_XiaYou_Shuang_DF_GD_B_z_NanHuBZ_DaQiaoJD_Di1_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061612",
+        "pid": "SGJZ00000346",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000345": [
+      {
+        "id": "CD00061585",
+        "pid": "SGJZ00000345",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061586",
+        "pid": "SGJZ00000345",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061590",
+        "pid": "SGJZ00000345",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuBZ_XiaYou_Shuang_DF_GD_A_z_NanHuBZ_DaQiaoJD_Di1_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061593",
+        "pid": "SGJZ00000345",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000399": [
+      {
+        "id": "CD00062611",
+        "pid": "SGJZ00000399",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062612",
+        "pid": "SGJZ00000399",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062616",
+        "pid": "SGJZ00000399",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuJD_z_GuanJingGang_SC_GD_A"
+      },
+      {
+        "id": "CD00062619",
+        "pid": "SGJZ00000399",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000311": [
+      {
+        "id": "CD00060939",
+        "pid": "SGJZ00000311",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060940",
+        "pid": "SGJZ00000311",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060944",
+        "pid": "SGJZ00000311",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D1_z_D2"
+      },
+      {
+        "id": "CD00060947",
+        "pid": "SGJZ00000311",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000310": [
+      {
+        "id": "CD00060920",
+        "pid": "SGJZ00000310",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060921",
+        "pid": "SGJZ00000310",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060925",
+        "pid": "SGJZ00000310",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_G8fa_z_D1"
+      },
+      {
+        "id": "CD00060928",
+        "pid": "SGJZ00000310",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000398": [
+      {
+        "id": "CD00062592",
+        "pid": "SGJZ00000398",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062593",
+        "pid": "SGJZ00000398",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062597",
+        "pid": "SGJZ00000398",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiYanSanDi_SC_ZhiXianLianTongFa_GD_B_z_HaiYanSanDi_SC_GD_B"
+      },
+      {
+        "id": "CD00062600",
+        "pid": "SGJZ00000398",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000397": [
+      {
+        "id": "CD00062573",
+        "pid": "SGJZ00000397",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062574",
+        "pid": "SGJZ00000397",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062578",
+        "pid": "SGJZ00000397",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiYanSanDi_SC_ZhiXianLianTongFa_GD_A_z_HaiYanSanDi_SC_GD_A"
+      },
+      {
+        "id": "CD00062581",
+        "pid": "SGJZ00000397",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000396": [
+      {
+        "id": "CD00062554",
+        "pid": "SGJZ00000396",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062555",
+        "pid": "SGJZ00000396",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062559",
+        "pid": "SGJZ00000396",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiYanSanDi_SC_ZhiXian_Di2_LFJ_GD_B_z_HaiYanSanDi_SC_ZhiXianLianTongFa_GD_B"
+      },
+      {
+        "id": "CD00062562",
+        "pid": "SGJZ00000396",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000395": [
+      {
+        "id": "CD00062535",
+        "pid": "SGJZ00000395",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062536",
+        "pid": "SGJZ00000395",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062540",
+        "pid": "SGJZ00000395",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiYanSanDi_SC_ZhiXian_Di2_LFJ_GD_A_z_HaiYanSanDi_SC_ZhiXianLianTongFa_GD_A"
+      },
+      {
+        "id": "CD00062543",
+        "pid": "SGJZ00000395",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000394": [
+      {
+        "id": "CD00062516",
+        "pid": "SGJZ00000394",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062517",
+        "pid": "SGJZ00000394",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062521",
+        "pid": "SGJZ00000394",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiYanSanDi_SC_ZhiXian_Di1_LFJ_GD_B_z_HaiYanSanDi_SC_ZhiXian_Di2_LFJ_GD_B"
+      },
+      {
+        "id": "CD00062524",
+        "pid": "SGJZ00000394",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000393": [
+      {
+        "id": "CD00062497",
+        "pid": "SGJZ00000393",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062498",
+        "pid": "SGJZ00000393",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062502",
+        "pid": "SGJZ00000393",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiYanSanDi_SC_ZhiXian_Di1_LFJ_GD_A_z_HaiYanSanDi_SC_ZhiXian_Di2_LFJ_GD_A"
+      },
+      {
+        "id": "CD00062505",
+        "pid": "SGJZ00000393",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000392": [
+      {
+        "id": "CD00062478",
+        "pid": "SGJZ00000392",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062479",
+        "pid": "SGJZ00000392",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062483",
+        "pid": "SGJZ00000392",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiYanSanDi_SC_ZhiXianShouDuan_DF_GD_B_z_HaiYanSanDi_SC_ZhiXian_Di1_LFJ_GD_B"
+      },
+      {
+        "id": "CD00062486",
+        "pid": "SGJZ00000392",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000319": [
+      {
+        "id": "CD00061091",
+        "pid": "SGJZ00000319",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061092",
+        "pid": "SGJZ00000319",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061096",
+        "pid": "SGJZ00000319",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D8_z_JiaXingJD_SGD_GD_B"
+      },
+      {
+        "id": "CD00061099",
+        "pid": "SGJZ00000319",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000318": [
+      {
+        "id": "CD00061073",
+        "pid": "SGJZ00000318",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061077",
+        "pid": "SGJZ00000318",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D8_z_JiaXingJD_SGD_GD_A"
+      },
+      {
+        "id": "CD00061080",
+        "pid": "SGJZ00000318",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      },
+      {
+        "id": "CD00061072",
+        "pid": "SGJZ00000318",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      }
+    ],
+    "SGJZ00000317": [
+      {
+        "id": "CD00061053",
+        "pid": "SGJZ00000317",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061054",
+        "pid": "SGJZ00000317",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061058",
+        "pid": "SGJZ00000317",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D7_z_D8"
+      },
+      {
+        "id": "CD00061061",
+        "pid": "SGJZ00000317",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000316": [
+      {
+        "id": "CD00061034",
+        "pid": "SGJZ00000316",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061035",
+        "pid": "SGJZ00000316",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061039",
+        "pid": "SGJZ00000316",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D5_z_D7"
+      },
+      {
+        "id": "CD00061042",
+        "pid": "SGJZ00000316",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000315": [
+      {
+        "id": "CD00061015",
+        "pid": "SGJZ00000315",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061016",
+        "pid": "SGJZ00000315",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061020",
+        "pid": "SGJZ00000315",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D4_1_z_D5"
+      },
+      {
+        "id": "CD00061023",
+        "pid": "SGJZ00000315",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000314": [
+      {
+        "id": "CD00060996",
+        "pid": "SGJZ00000314",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060997",
+        "pid": "SGJZ00000314",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061001",
+        "pid": "SGJZ00000314",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D4_z_D4_1"
+      },
+      {
+        "id": "CD00061004",
+        "pid": "SGJZ00000314",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000313": [
+      {
+        "id": "CD00060977",
+        "pid": "SGJZ00000313",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060978",
+        "pid": "SGJZ00000313",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060982",
+        "pid": "SGJZ00000313",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D3_z_D4"
+      },
+      {
+        "id": "CD00060985",
+        "pid": "SGJZ00000313",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000312": [
+      {
+        "id": "CD00060958",
+        "pid": "SGJZ00000312",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060959",
+        "pid": "SGJZ00000312",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060963",
+        "pid": "SGJZ00000312",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_D2_z_D3"
+      },
+      {
+        "id": "CD00060966",
+        "pid": "SGJZ00000312",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000322": [
+      {
+        "id": "CD00061148",
+        "pid": "SGJZ00000322",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061149",
+        "pid": "SGJZ00000322",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061153",
+        "pid": "SGJZ00000322",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXing_ChangAnJD_SG_QiDian_z_JiaXing_ChangAnJD_Di1_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061156",
+        "pid": "SGJZ00000322",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000321": [
+      {
+        "id": "CD00061129",
+        "pid": "SGJZ00000321",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061130",
+        "pid": "SGJZ00000321",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061134",
+        "pid": "SGJZ00000321",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXing_ChangAnJD_SG_QiDian_z_JiaXing_ChangAnJD_Di1_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061137",
+        "pid": "SGJZ00000321",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000320": [
+      {
+        "id": "CD00061110",
+        "pid": "SGJZ00000320",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061111",
+        "pid": "SGJZ00000320",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061115",
+        "pid": "SGJZ00000320",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXingJD_SG_ZhongDian_z_JiaXing_ChangAnJD_SG_QiDian"
+      },
+      {
+        "id": "CD00061118",
+        "pid": "SGJZ00000320",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000329": [
+      {
+        "id": "CD00061281",
+        "pid": "SGJZ00000329",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061282",
+        "pid": "SGJZ00000329",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061286",
+        "pid": "SGJZ00000329",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_XiaYou_Shuang_DF_GD_A_z_HaiNingBZ_TuDianJD_Di1_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061289",
+        "pid": "SGJZ00000329",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000328": [
+      {
+        "id": "CD00061262",
+        "pid": "SGJZ00000328",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061263",
+        "pid": "SGJZ00000328",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061267",
+        "pid": "SGJZ00000328",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXing_ChangAnJD_Di3_LFJ_GD_B_z_HaiNingBZ_ShangYou_Shuang_DF_GD_B"
+      },
+      {
+        "id": "CD00061270",
+        "pid": "SGJZ00000328",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000327": [
+      {
+        "id": "CD00061243",
+        "pid": "SGJZ00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061244",
+        "pid": "SGJZ00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061248",
+        "pid": "SGJZ00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXing_ChangAnJD_Di3_LFJ_GD_A_z_HaiNingBZ_ShangYou_Shuang_DF_GD_A"
+      },
+      {
+        "id": "CD00061251",
+        "pid": "SGJZ00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000326": [
+      {
+        "id": "CD00061224",
+        "pid": "SGJZ00000326",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061225",
+        "pid": "SGJZ00000326",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061229",
+        "pid": "SGJZ00000326",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXing_ChangAnJD_Di2_LFJ_GD_B_z_JiaXing_ChangAnJD_Di3_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061232",
+        "pid": "SGJZ00000326",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000325": [
+      {
+        "id": "CD00061205",
+        "pid": "SGJZ00000325",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061206",
+        "pid": "SGJZ00000325",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061210",
+        "pid": "SGJZ00000325",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXing_ChangAnJD_Di2_LFJ_GD_A_z_JiaXing_ChangAnJD_Di3_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061213",
+        "pid": "SGJZ00000325",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000324": [
+      {
+        "id": "CD00061186",
+        "pid": "SGJZ00000324",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061187",
+        "pid": "SGJZ00000324",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061191",
+        "pid": "SGJZ00000324",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXing_ChangAnJD_Di1_LFJ_GD_B_z_JiaXing_ChangAnJD_Di2_LFJ_GD_B"
+      },
+      {
+        "id": "CD00061194",
+        "pid": "SGJZ00000324",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000323": [
+      {
+        "id": "CD00061167",
+        "pid": "SGJZ00000323",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061168",
+        "pid": "SGJZ00000323",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061172",
+        "pid": "SGJZ00000323",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaXing_ChangAnJD_Di1_LFJ_GD_A_z_JiaXing_ChangAnJD_Di2_LFJ_GD_A"
+      },
+      {
+        "id": "CD00061175",
+        "pid": "SGJZ00000323",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000380": [
+      {
+        "id": "CD00062250",
+        "pid": "SGJZ00000380",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062251",
+        "pid": "SGJZ00000380",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062255",
+        "pid": "SGJZ00000380",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongXiang_SC_ShangYou_LLJ_XiaYou_DF_Txl4_GD_B_z_TongXiang_SC_ShangYou_DF_Tc3_GD_B"
+      },
+      {
+        "id": "CD00062258",
+        "pid": "SGJZ00000380",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000377": [
+      {
+        "id": "CD00062193",
+        "pid": "SGJZ00000377",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062194",
+        "pid": "SGJZ00000377",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062198",
+        "pid": "SGJZ00000377",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongXiang_TLZ_TongXiang_SC_6FJ_GD_A_z_TongXiang_SC_ShangYou_LLJ_XiaYou_DF_Txl3_GD_A"
+      },
+      {
+        "id": "CD00062201",
+        "pid": "SGJZ00000377",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000410": [
+      {
+        "id": "CD00062820",
+        "pid": "SGJZ00000410",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062821",
+        "pid": "SGJZ00000410",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062825",
+        "pid": "SGJZ00000410",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_GuHengQiao_SC_ZhiXian_Di1_LFJ_GD_B_z_GuHengQiao_SC_ZhiXian_Di2_LFJ_GD_B"
+      },
+      {
+        "id": "CD00062828",
+        "pid": "SGJZ00000410",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000376": [
+      {
+        "id": "CD00062174",
+        "pid": "SGJZ00000376",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062175",
+        "pid": "SGJZ00000376",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062179",
+        "pid": "SGJZ00000376",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongXiang_TLZ_XiaYou_DF_GD_B_z_TongXiang_TLZ_TongXiang_SC_6FJ_GD_B"
+      },
+      {
+        "id": "CD00062182",
+        "pid": "SGJZ00000376",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000375": [
+      {
+        "id": "CD00062155",
+        "pid": "SGJZ00000375",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062156",
+        "pid": "SGJZ00000375",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062160",
+        "pid": "SGJZ00000375",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongXiang_TLZ_XiaYou_DF_GD_A_z_TongXiang_TLZ_TongXiang_SC_6FJ_GD_A"
+      },
+      {
+        "id": "CD00062163",
+        "pid": "SGJZ00000375",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000374": [
+      {
+        "id": "CD00062136",
+        "pid": "SGJZ00000374",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062137",
+        "pid": "SGJZ00000374",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062141",
+        "pid": "SGJZ00000374",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongXiang_TLZ_ShangYou_DF_GD_B_z_TongXiang_TLZ_XiaYou_DF_GD_B"
+      },
+      {
+        "id": "CD00062144",
+        "pid": "SGJZ00000374",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000373": [
+      {
+        "id": "CD00062117",
+        "pid": "SGJZ00000373",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062118",
+        "pid": "SGJZ00000373",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062122",
+        "pid": "SGJZ00000373",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongXiang_TLZ_ShangYou_DF_GD_A_z_TongXiang_TLZ_XiaYou_DF_GD_A"
+      },
+      {
+        "id": "CD00062125",
+        "pid": "SGJZ00000373",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000372": [
+      {
+        "id": "CD00062098",
+        "pid": "SGJZ00000372",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062099",
+        "pid": "SGJZ00000372",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062103",
+        "pid": "SGJZ00000372",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_TongXiang_TLZ_6FJ_GD_B_z_TongXiang_TLZ_ShangYou_DF_GD_B"
+      },
+      {
+        "id": "CD00062106",
+        "pid": "SGJZ00000372",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000371": [
+      {
+        "id": "CD00062079",
+        "pid": "SGJZ00000371",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062080",
+        "pid": "SGJZ00000371",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062084",
+        "pid": "SGJZ00000371",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZ_TongXiang_TLZ_6FJ_GD_A_z_TongXiang_TLZ_ShangYou_DF_GD_A"
+      },
+      {
+        "id": "CD00062087",
+        "pid": "SGJZ00000371",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000370": [
+      {
+        "id": "CD00062060",
+        "pid": "SGJZ00000370",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062061",
+        "pid": "SGJZ00000370",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062065",
+        "pid": "SGJZ00000370",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZTongXiangFangXiangChaoYueGuan_DF_GD_B_z_HaiNingBZ_TongXiang_TLZ_6FJ_GD_B"
+      },
+      {
+        "id": "CD00062068",
+        "pid": "SGJZ00000370",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000414": [
+      {
+        "id": "CD00062896",
+        "pid": "SGJZ00000414",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062897",
+        "pid": "SGJZ00000414",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062901",
+        "pid": "SGJZ00000414",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_PingHuJD_ShangYou_LianTongFa_GD_B_z_GuHengQiao_SC_GD_B"
+      },
+      {
+        "id": "CD00062904",
+        "pid": "SGJZ00000414",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000413": [
+      {
+        "id": "CD00062877",
+        "pid": "SGJZ00000413",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062878",
+        "pid": "SGJZ00000413",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062882",
+        "pid": "SGJZ00000413",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_PingHuJD_ShangYou_LianTongFa_GD_A_z_GuHengQiao_SC_GD_A"
+      },
+      {
+        "id": "CD00062885",
+        "pid": "SGJZ00000413",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000412": [
+      {
+        "id": "CD00062858",
+        "pid": "SGJZ00000412",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062859",
+        "pid": "SGJZ00000412",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062863",
+        "pid": "SGJZ00000412",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_GuHengQiao_SC_ZhiXian_Di2_LFJ_GD_B_z_PingHuJD_ShangYou_LianTongFa_GD_B"
+      },
+      {
+        "id": "CD00062866",
+        "pid": "SGJZ00000412",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000379": [
+      {
+        "id": "CD00062231",
+        "pid": "SGJZ00000379",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062232",
+        "pid": "SGJZ00000379",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062236",
+        "pid": "SGJZ00000379",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongXiang_SC_ShangYou_LLJ_XiaYou_DF_Txl3_GD_A_z_TongXiang_SC_ShangYou_DF_Tc1_GD_A"
+      },
+      {
+        "id": "CD00062239",
+        "pid": "SGJZ00000379",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000411": [
+      {
+        "id": "CD00062839",
+        "pid": "SGJZ00000411",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062840",
+        "pid": "SGJZ00000411",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062844",
+        "pid": "SGJZ00000411",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_GuHengQiao_SC_ZhiXian_Di2_LFJ_GD_A_z_PingHuJD_ShangYou_LianTongFa_GD_A"
+      },
+      {
+        "id": "CD00062847",
+        "pid": "SGJZ00000411",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000378": [
+      {
+        "id": "CD00062212",
+        "pid": "SGJZ00000378",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062213",
+        "pid": "SGJZ00000378",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062217",
+        "pid": "SGJZ00000378",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongXiang_TLZ_TongXiang_SC_6FJ_GD_B_z_TongXiang_SC_ShangYou_LLJ_XiaYou_DF_Txl4_GD_B"
+      },
+      {
+        "id": "CD00062220",
+        "pid": "SGJZ00000378",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000309": [
+      {
+        "id": "CD00060901",
+        "pid": "SGJZ00000309",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060902",
+        "pid": "SGJZ00000309",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060906",
+        "pid": "SGJZ00000309",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_G7fa_z_G8fa"
+      },
+      {
+        "id": "CD00060909",
+        "pid": "SGJZ00000309",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000391": [
+      {
+        "id": "CD00062459",
+        "pid": "SGJZ00000391",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062460",
+        "pid": "SGJZ00000391",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062464",
+        "pid": "SGJZ00000391",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiYanSanDi_SC_ZhiXianShouDuan_DF_GD_A_z_HaiYanSanDi_SC_ZhiXian_Di1_LFJ_GD_A"
+      },
+      {
+        "id": "CD00062467",
+        "pid": "SGJZ00000391",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000390": [
+      {
+        "id": "CD00062440",
+        "pid": "SGJZ00000390",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062441",
+        "pid": "SGJZ00000390",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062445",
+        "pid": "SGJZ00000390",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNing3_SC_ZhiXianLianTongFa_GD_B_z_HaiNing3_SC_GD_B"
+      },
+      {
+        "id": "CD00062448",
+        "pid": "SGJZ00000390",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000300": [
+      {
+        "id": "CD00060730",
+        "pid": "SGJZ00000300",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060731",
+        "pid": "SGJZ00000300",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060735",
+        "pid": "SGJZ00000300",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_XianLinShuiKu_z_XianLinFenChaDian"
+      },
+      {
+        "id": "CD00060738",
+        "pid": "SGJZ00000300",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000388": [
+      {
+        "id": "CD00062402",
+        "pid": "SGJZ00000388",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062403",
+        "pid": "SGJZ00000388",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062407",
+        "pid": "SGJZ00000388",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNing3_SC_ZhiXianShouDuan_DF_GD_B_z_HaiNing3_SC_ZhiXianLianTongFa_GD_B"
+      },
+      {
+        "id": "CD00062410",
+        "pid": "SGJZ00000388",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000387": [
+      {
+        "id": "CD00062383",
+        "pid": "SGJZ00000387",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062384",
+        "pid": "SGJZ00000387",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062388",
+        "pid": "SGJZ00000387",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNing3_SC_ZhiXianShouDuan_DF_GD_A_z_HaiNing3_SC_ZhiXianLianTongFa_GD_A"
+      },
+      {
+        "id": "CD00062391",
+        "pid": "SGJZ00000387",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000386": [
+      {
+        "id": "CD00062364",
+        "pid": "SGJZ00000386",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062365",
+        "pid": "SGJZ00000386",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062369",
+        "pid": "SGJZ00000386",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingJDShangYou_DF_z_HaiYanSanDi_SC_ZhiXianShouDuan_DF_DanGuanDuan"
+      },
+      {
+        "id": "CD00062372",
+        "pid": "SGJZ00000386",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000385": [
+      {
+        "id": "CD00062345",
+        "pid": "SGJZ00000385",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062346",
+        "pid": "SGJZ00000385",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062350",
+        "pid": "SGJZ00000385",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingJDShangYou_DF_z_HaiNing3_SC_ZhiXianShouDuan_DF_DanGuanDuan"
+      },
+      {
+        "id": "CD00062353",
+        "pid": "SGJZ00000385",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000384": [
+      {
+        "id": "CD00062326",
+        "pid": "SGJZ00000384",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062327",
+        "pid": "SGJZ00000384",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062331",
+        "pid": "SGJZ00000384",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TuDian_HaiNingJDZhiXianShouDuan_DF_GD_B_z_HaiNingJDShangYou_DF_GD_B"
+      },
+      {
+        "id": "CD00062334",
+        "pid": "SGJZ00000384",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000383": [
+      {
+        "id": "CD00062307",
+        "pid": "SGJZ00000383",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062308",
+        "pid": "SGJZ00000383",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062312",
+        "pid": "SGJZ00000383",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TuDian_HaiNingJDZhiXianShouDuan_DF_GD_A_z_HaiNingJDShangYou_DF_GD_A"
+      },
+      {
+        "id": "CD00062315",
+        "pid": "SGJZ00000383",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000382": [
+      {
+        "id": "CD00062288",
+        "pid": "SGJZ00000382",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062289",
+        "pid": "SGJZ00000382",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062293",
+        "pid": "SGJZ00000382",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongFuZhiXianShouDuan_DF_GD_B_z_TongFu_SC_GD_B"
+      },
+      {
+        "id": "CD00062296",
+        "pid": "SGJZ00000382",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000381": [
+      {
+        "id": "CD00062269",
+        "pid": "SGJZ00000381",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062270",
+        "pid": "SGJZ00000381",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062274",
+        "pid": "SGJZ00000381",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_TongFuZhiXianShouDuan_DF_GD_A_z_TongFu_SC_GD_A"
+      },
+      {
+        "id": "CD00062277",
+        "pid": "SGJZ00000381",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000308": [
+      {
+        "id": "CD00060882",
+        "pid": "SGJZ00000308",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060883",
+        "pid": "SGJZ00000308",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060887",
+        "pid": "SGJZ00000308",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_G6fa_z_G7fa"
+      },
+      {
+        "id": "CD00060890",
+        "pid": "SGJZ00000308",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000307": [
+      {
+        "id": "CD00060863",
+        "pid": "SGJZ00000307",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060864",
+        "pid": "SGJZ00000307",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060868",
+        "pid": "SGJZ00000307",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_G5fa_z_G6fa"
+      },
+      {
+        "id": "CD00060871",
+        "pid": "SGJZ00000307",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000306": [
+      {
+        "id": "CD00060844",
+        "pid": "SGJZ00000306",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060845",
+        "pid": "SGJZ00000306",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060849",
+        "pid": "SGJZ00000306",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_G4fa_z_G5fa"
+      },
+      {
+        "id": "CD00060852",
+        "pid": "SGJZ00000306",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000305": [
+      {
+        "id": "CD00060825",
+        "pid": "SGJZ00000305",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060826",
+        "pid": "SGJZ00000305",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060830",
+        "pid": "SGJZ00000305",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_G3fa_z_G4fa"
+      },
+      {
+        "id": "CD00060833",
+        "pid": "SGJZ00000305",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000304": [
+      {
+        "id": "CD00060806",
+        "pid": "SGJZ00000304",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060807",
+        "pid": "SGJZ00000304",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060811",
+        "pid": "SGJZ00000304",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_G2fa_z_G3fa"
+      },
+      {
+        "id": "CD00060814",
+        "pid": "SGJZ00000304",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000303": [
+      {
+        "id": "CD00060787",
+        "pid": "SGJZ00000303",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060788",
+        "pid": "SGJZ00000303",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060792",
+        "pid": "SGJZ00000303",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_G1fa_z_G2fa"
+      },
+      {
+        "id": "CD00060795",
+        "pid": "SGJZ00000303",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000302": [
+      {
+        "id": "CD00060768",
+        "pid": "SGJZ00000302",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060769",
+        "pid": "SGJZ00000302",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060773",
+        "pid": "SGJZ00000302",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_DaMaoWuJD_z_G1fa"
+      },
+      {
+        "id": "CD00060776",
+        "pid": "SGJZ00000302",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000389": [
+      {
+        "id": "CD00062421",
+        "pid": "SGJZ00000389",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062422",
+        "pid": "SGJZ00000389",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062426",
+        "pid": "SGJZ00000389",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNing3_SC_ZhiXianLianTongFa_GD_A_z_HaiNing3_SC_GD_A"
+      },
+      {
+        "id": "CD00062429",
+        "pid": "SGJZ00000389",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000301": [
+      {
+        "id": "CD00060749",
+        "pid": "SGJZ00000301",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00060750",
+        "pid": "SGJZ00000301",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00060754",
+        "pid": "SGJZ00000301",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_XianLinFenChaDian_z_DaMaoWuJD"
+      },
+      {
+        "id": "CD00060757",
+        "pid": "SGJZ00000301",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000355": [
+      {
+        "id": "CD00061775",
+        "pid": "SGJZ00000355",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061776",
+        "pid": "SGJZ00000355",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061780",
+        "pid": "SGJZ00000355",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_XianLin_SC_ZhiXianDanGuanDuanZhongDian_z_XianLin_SC_ZhiXian_SGD_GD_B"
+      },
+      {
+        "id": "CD00061783",
+        "pid": "SGJZ00000355",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000354": [
+      {
+        "id": "CD00061756",
+        "pid": "SGJZ00000354",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061757",
+        "pid": "SGJZ00000354",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061761",
+        "pid": "SGJZ00000354",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_XianLin_SC_ZhiXianDanGuanDuanZhongDian_z_XianLin_SC_ZhiXian_SGD_GD_A"
+      },
+      {
+        "id": "CD00061764",
+        "pid": "SGJZ00000354",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000353": [
+      {
+        "id": "CD00061737",
+        "pid": "SGJZ00000353",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061738",
+        "pid": "SGJZ00000353",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061742",
+        "pid": "SGJZ00000353",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_XianLinFenChaDian_z_XianLin_SC_ZhiXianDanGuanDuan"
+      },
+      {
+        "id": "CD00061745",
+        "pid": "SGJZ00000353",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000352": [
+      {
+        "id": "CD00061718",
+        "pid": "SGJZ00000352",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061719",
+        "pid": "SGJZ00000352",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061723",
+        "pid": "SGJZ00000352",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_DaQiaoJDShangYouShuang_DF_GD_B_z_DaQiaoJDXiaYouShuang_DF_(PingHuJDFangXiang)"
+      },
+      {
+        "id": "CD00061726",
+        "pid": "SGJZ00000352",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000351": [
+      {
+        "id": "CD00061699",
+        "pid": "SGJZ00000351",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061700",
+        "pid": "SGJZ00000351",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061704",
+        "pid": "SGJZ00000351",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_DaQiaoJDShangYouShuang_DF_GD_A_z_DaQiaoJDXiaYouShuang_DF_(JiaShanBZFangXiang)"
+      },
+      {
+        "id": "CD00061707",
+        "pid": "SGJZ00000351",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000350": [
+      {
+        "id": "CD00061680",
+        "pid": "SGJZ00000350",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061681",
+        "pid": "SGJZ00000350",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061685",
+        "pid": "SGJZ00000350",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuBZ_DaQiaoJD_Di2_LFJ_GD_B_z_DaQiaoJDShangYouShuang_DF_GD_B"
+      },
+      {
+        "id": "CD00061688",
+        "pid": "SGJZ00000350",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000359": [
+      {
+        "id": "CD00061851",
+        "pid": "SGJZ00000359",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061852",
+        "pid": "SGJZ00000359",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061856",
+        "pid": "SGJZ00000359",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_XiangFuJD_z_XiangFu_SC_ZhiXian_SGD_GD_A"
+      },
+      {
+        "id": "CD00061859",
+        "pid": "SGJZ00000359",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000358": [
+      {
+        "id": "CD00061832",
+        "pid": "SGJZ00000358",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061833",
+        "pid": "SGJZ00000358",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061837",
+        "pid": "SGJZ00000358",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiuXi_SC_ZhiXianDanGuanDuanZhongDian_z_JiuXi_SC_ZhiXian_SGD_GD_B"
+      },
+      {
+        "id": "CD00061840",
+        "pid": "SGJZ00000358",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000357": [
+      {
+        "id": "CD00061813",
+        "pid": "SGJZ00000357",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061814",
+        "pid": "SGJZ00000357",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061818",
+        "pid": "SGJZ00000357",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiuXi_SC_ZhiXianDanGuanDuanZhongDian_z_JiuXi_SC_ZhiXian_SGD_GD_A"
+      },
+      {
+        "id": "CD00061821",
+        "pid": "SGJZ00000357",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000356": [
+      {
+        "id": "CD00061794",
+        "pid": "SGJZ00000356",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061795",
+        "pid": "SGJZ00000356",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061799",
+        "pid": "SGJZ00000356",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_DaMaoWuJD_z_JiuXi_SC_ZhiXianDanGuanDuan"
+      },
+      {
+        "id": "CD00061802",
+        "pid": "SGJZ00000356",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000409": [
+      {
+        "id": "CD00062801",
+        "pid": "SGJZ00000409",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062802",
+        "pid": "SGJZ00000409",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062806",
+        "pid": "SGJZ00000409",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_GuHengQiao_SC_ZhiXian_Di1_LFJ_GD_A_z_GuHengQiao_SC_ZhiXian_Di2_LFJ_GD_A"
+      },
+      {
+        "id": "CD00062809",
+        "pid": "SGJZ00000409",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000408": [
+      {
+        "id": "CD00062782",
+        "pid": "SGJZ00000408",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062783",
+        "pid": "SGJZ00000408",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062787",
+        "pid": "SGJZ00000408",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_GuHengQiao_SC_ZhiXianShouDuan_DF_GD_B_z_GuHengQiao_SC_ZhiXian_Di1_LFJ_GD_B"
+      },
+      {
+        "id": "CD00062790",
+        "pid": "SGJZ00000408",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000366": [
+      {
+        "id": "CD00061984",
+        "pid": "SGJZ00000366",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061985",
+        "pid": "SGJZ00000366",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061989",
+        "pid": "SGJZ00000366",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNing2_SC_ZhiXianShouDuanShuang_DF_GD_B_z_HaiNing2_SC_ZhiXianLianTongFa_GD_B"
+      },
+      {
+        "id": "CD00061992",
+        "pid": "SGJZ00000366",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000365": [
+      {
+        "id": "CD00061965",
+        "pid": "SGJZ00000365",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061966",
+        "pid": "SGJZ00000365",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061970",
+        "pid": "SGJZ00000365",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNing2_SC_ZhiXianShouDuanShuang_DF_GD_A_z_HaiNing2_SC_ZhiXianLianTongFa_GD_A"
+      },
+      {
+        "id": "CD00061973",
+        "pid": "SGJZ00000365",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000364": [
+      {
+        "id": "CD00061946",
+        "pid": "SGJZ00000364",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061947",
+        "pid": "SGJZ00000364",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061951",
+        "pid": "SGJZ00000364",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_RenHe_SC_ZhiXianDanGuanDuan_z_RenHe_SC_"
+      },
+      {
+        "id": "CD00061954",
+        "pid": "SGJZ00000364",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000363": [
+      {
+        "id": "CD00061927",
+        "pid": "SGJZ00000363",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061928",
+        "pid": "SGJZ00000363",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061932",
+        "pid": "SGJZ00000363",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_RenHeJD(_SG_QiDian)_z_RenHe_SC_ZhiXian_SGD_GD_B"
+      },
+      {
+        "id": "CD00061935",
+        "pid": "SGJZ00000363",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000362": [
+      {
+        "id": "CD00061908",
+        "pid": "SGJZ00000362",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061909",
+        "pid": "SGJZ00000362",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061913",
+        "pid": "SGJZ00000362",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_RenHeJD(_SG_QiDian)_z_RenHe_SC_ZhiXian_SGD_GD_A"
+      },
+      {
+        "id": "CD00061916",
+        "pid": "SGJZ00000362",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000361": [
+      {
+        "id": "CD00061889",
+        "pid": "SGJZ00000361",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061890",
+        "pid": "SGJZ00000361",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061894",
+        "pid": "SGJZ00000361",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_XiangFu_SC_ZhiXian_SGD_GD_ZhongDian_z_XiangFu_SC_"
+      },
+      {
+        "id": "CD00061897",
+        "pid": "SGJZ00000361",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000360": [
+      {
+        "id": "CD00061870",
+        "pid": "SGJZ00000360",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00061871",
+        "pid": "SGJZ00000360",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00061875",
+        "pid": "SGJZ00000360",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_XiangFuJD_z_XiangFu_SC_ZhiXian_SGD_GD_B"
+      },
+      {
+        "id": "CD00061878",
+        "pid": "SGJZ00000360",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000407": [
+      {
+        "id": "CD00062763",
+        "pid": "SGJZ00000407",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062764",
+        "pid": "SGJZ00000407",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062768",
+        "pid": "SGJZ00000407",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_GuHengQiao_SC_ZhiXianShouDuan_DF_GD_A_z_GuHengQiao_SC_ZhiXian_Di1_LFJ_GD_A"
+      },
+      {
+        "id": "CD00062771",
+        "pid": "SGJZ00000407",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000406": [
+      {
+        "id": "CD00062744",
+        "pid": "SGJZ00000406",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062745",
+        "pid": "SGJZ00000406",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062749",
+        "pid": "SGJZ00000406",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaShan_TLZ_GD_B_z_JiaShanGuiHuaBZZhiXianLianTongFa_GD_B"
+      },
+      {
+        "id": "CD00062752",
+        "pid": "SGJZ00000406",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000405": [
+      {
+        "id": "CD00062725",
+        "pid": "SGJZ00000405",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062726",
+        "pid": "SGJZ00000405",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062730",
+        "pid": "SGJZ00000405",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaShan_TLZ_GD_A_z_JiaShanGuiHuaBZZhiXianLianTongFa_GD_A"
+      },
+      {
+        "id": "CD00062733",
+        "pid": "SGJZ00000405",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000404": [
+      {
+        "id": "CD00062706",
+        "pid": "SGJZ00000404",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062707",
+        "pid": "SGJZ00000404",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062711",
+        "pid": "SGJZ00000404",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaShanGuiHuaBZZhiXian_6FJ_GD_B_z_JiaShan_TLZ_GD_B"
+      },
+      {
+        "id": "CD00062714",
+        "pid": "SGJZ00000404",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000403": [
+      {
+        "id": "CD00062687",
+        "pid": "SGJZ00000403",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062688",
+        "pid": "SGJZ00000403",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062692",
+        "pid": "SGJZ00000403",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaShanGuiHuaBZZhiXian_6FJ_GD_A_z_JiaShan_TLZ_GD_A"
+      },
+      {
+        "id": "CD00062695",
+        "pid": "SGJZ00000403",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000369": [
+      {
+        "id": "CD00062041",
+        "pid": "SGJZ00000369",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062042",
+        "pid": "SGJZ00000369",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062046",
+        "pid": "SGJZ00000369",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNingBZTongXiangFangXiangChaoYueGuan_DF_GD_A_z_HaiNingBZ_TongXiang_TLZ_6FJ_GD_A"
+      },
+      {
+        "id": "CD00062049",
+        "pid": "SGJZ00000369",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000402": [
+      {
+        "id": "CD00062668",
+        "pid": "SGJZ00000402",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062669",
+        "pid": "SGJZ00000402",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062673",
+        "pid": "SGJZ00000402",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaShanGuiHuaBZZhiXianShouDuanFa_GD_B_z_JiaShanGuiHuaBZZhiXian_6FJ_GD_B"
+      },
+      {
+        "id": "CD00062676",
+        "pid": "SGJZ00000402",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000368": [
+      {
+        "id": "CD00062022",
+        "pid": "SGJZ00000368",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062023",
+        "pid": "SGJZ00000368",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062027",
+        "pid": "SGJZ00000368",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNing2_SC_ZhiXianLianTongFa_GD_B_z_HaiNing2_SC_GD_B"
+      },
+      {
+        "id": "CD00062030",
+        "pid": "SGJZ00000368",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000401": [
+      {
+        "id": "CD00062649",
+        "pid": "SGJZ00000401",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062650",
+        "pid": "SGJZ00000401",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062654",
+        "pid": "SGJZ00000401",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_JiaShanGuiHuaBZZhiXianShouDuanFa_GD_A_z_JiaShanGuiHuaBZZhiXian_6FJ_GD_A"
+      },
+      {
+        "id": "CD00062657",
+        "pid": "SGJZ00000401",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      }
+    ],
+    "SGJZ00000367": [
+      {
+        "id": "CD00062011",
+        "pid": "SGJZ00000367",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      },
+      {
+        "id": "CD00062003",
+        "pid": "SGJZ00000367",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062004",
+        "pid": "SGJZ00000367",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062008",
+        "pid": "SGJZ00000367",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_HaiNing2_SC_ZhiXianLianTongFa_GD_A_z_HaiNing2_SC_GD_A"
+      }
+    ],
+    "SGJZ00000400": [
+      {
+        "id": "CD00062638",
+        "pid": "SGJZ00000400",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      },
+      {
+        "id": "CD00062630",
+        "pid": "SGJZ00000400",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10002",
+        "pointName": "糙率",
+        "charId": null
+      },
+      {
+        "id": "CD00062631",
+        "pid": "SGJZ00000400",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10003",
+        "pointName": "长度",
+        "charId": null
+      },
+      {
+        "id": "CD00062635",
+        "pid": "SGJZ00000400",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10020",
+        "pointName": "是否参与运行",
+        "charId": "IN_PST_NanHuJD_z_GuanJingGang_SC_GD_B"
+      }
+    ]
+  },
+  "token": null
+}

@@ -1,0 +1,580 @@
+{
+  "success": true,
+  "errorCode": "2000",
+  "message": "操作成功",
+  "data": {
+    "ZNSB00000292": [
+      {
+        "id": "CD00058637",
+        "pid": "ZNSB00000292",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058643",
+        "pid": "ZNSB00000292",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058644",
+        "pid": "ZNSB00000292",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_HaiNingBZ_P03"
+      },
+      {
+        "id": "CD00058651",
+        "pid": "ZNSB00000292",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058652",
+        "pid": "ZNSB00000292",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000293": [
+      {
+        "id": "CD00058672",
+        "pid": "ZNSB00000293",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058678",
+        "pid": "ZNSB00000293",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058679",
+        "pid": "ZNSB00000293",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_HaiNingBZ_P04"
+      },
+      {
+        "id": "CD00058686",
+        "pid": "ZNSB00000293",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058687",
+        "pid": "ZNSB00000293",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000290": [
+      {
+        "id": "CD00058567",
+        "pid": "ZNSB00000290",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058573",
+        "pid": "ZNSB00000290",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058574",
+        "pid": "ZNSB00000290",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_HaiNingBZ_P01"
+      },
+      {
+        "id": "CD00058581",
+        "pid": "ZNSB00000290",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058582",
+        "pid": "ZNSB00000290",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000291": [
+      {
+        "id": "CD00058602",
+        "pid": "ZNSB00000291",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058608",
+        "pid": "ZNSB00000291",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058609",
+        "pid": "ZNSB00000291",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_HaiNingBZ_P02"
+      },
+      {
+        "id": "CD00058616",
+        "pid": "ZNSB00000291",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058617",
+        "pid": "ZNSB00000291",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000327": [
+      {
+        "id": "CD00060694",
+        "pid": "ZNSB00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00060700",
+        "pid": "ZNSB00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00060701",
+        "pid": "ZNSB00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": null
+      },
+      {
+        "id": "CD00060708",
+        "pid": "ZNSB00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00060709",
+        "pid": "ZNSB00000327",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000298": [
+      {
+        "id": "CD00058847",
+        "pid": "ZNSB00000298",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058853",
+        "pid": "ZNSB00000298",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058854",
+        "pid": "ZNSB00000298",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_NanHuBZ_P03"
+      },
+      {
+        "id": "CD00058861",
+        "pid": "ZNSB00000298",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058862",
+        "pid": "ZNSB00000298",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000299": [
+      {
+        "id": "CD00058882",
+        "pid": "ZNSB00000299",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058888",
+        "pid": "ZNSB00000299",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058889",
+        "pid": "ZNSB00000299",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_NanHuBZ_P04"
+      },
+      {
+        "id": "CD00058896",
+        "pid": "ZNSB00000299",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058897",
+        "pid": "ZNSB00000299",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000296": [
+      {
+        "id": "CD00058777",
+        "pid": "ZNSB00000296",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058783",
+        "pid": "ZNSB00000296",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058784",
+        "pid": "ZNSB00000296",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_NanHuBZ_P01"
+      },
+      {
+        "id": "CD00058791",
+        "pid": "ZNSB00000296",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058792",
+        "pid": "ZNSB00000296",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000297": [
+      {
+        "id": "CD00058812",
+        "pid": "ZNSB00000297",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058818",
+        "pid": "ZNSB00000297",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058819",
+        "pid": "ZNSB00000297",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_NanHuBZ_P02"
+      },
+      {
+        "id": "CD00058826",
+        "pid": "ZNSB00000297",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058827",
+        "pid": "ZNSB00000297",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000294": [
+      {
+        "id": "CD00058707",
+        "pid": "ZNSB00000294",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058713",
+        "pid": "ZNSB00000294",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058714",
+        "pid": "ZNSB00000294",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_HaiNingBZ_P05"
+      },
+      {
+        "id": "CD00058721",
+        "pid": "ZNSB00000294",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058722",
+        "pid": "ZNSB00000294",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ],
+    "ZNSB00000295": [
+      {
+        "id": "CD00058742",
+        "pid": "ZNSB00000295",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "10001",
+        "pointName": "单泵类型（0空、1定频/定角泵、1变频/变角泵）",
+        "charId": null
+      },
+      {
+        "id": "CD00058748",
+        "pid": "ZNSB00000295",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20001",
+        "pointName": "实时水量",
+        "charId": null
+      },
+      {
+        "id": "CD00058749",
+        "pid": "ZNSB00000295",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20002",
+        "pointName": "实时流量",
+        "charId": "IN_Q_HaiNingBZ_P06"
+      },
+      {
+        "id": "CD00058756",
+        "pid": "ZNSB00000295",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20009",
+        "pointName": "实时开机点",
+        "charId": null
+      },
+      {
+        "id": "CD00058757",
+        "pid": "ZNSB00000295",
+        "correlationCode": null,
+        "correlationSource": null,
+        "v": "0",
+        "pointType": "20010",
+        "pointName": "实时关机点",
+        "charId": null
+      }
+    ]
+  },
+  "token": null
+}
